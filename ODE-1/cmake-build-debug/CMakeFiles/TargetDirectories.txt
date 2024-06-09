@@ -1,0 +1,4 @@
+C:/Users/Owner/CLionProjects/ODE-1/cmake-build-debug/CMakeFiles/ode_solver.dir
+C:/Users/Owner/CLionProjects/ODE-1/cmake-build-debug/CMakeFiles/ODE_1.dir
+C:/Users/Owner/CLionProjects/ODE-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/CLionProjects/ODE-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
